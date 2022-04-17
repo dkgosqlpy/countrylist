@@ -7,6 +7,6 @@ func Countrycodes() map[int]string {
 }
 
 func Countrynames() []string {
-	country := []string{"India", "Canada", "Japan"}
+	country := []string{"India", "Canada", "Japan", "Russia", "Brazil"}
 	return country
 }
